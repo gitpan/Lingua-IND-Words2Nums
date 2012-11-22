@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Lingua-IND-Words2Nums,
+version 0.044:
+
+  Lingua::IND::Words2Nums currently can handle real numbers in normal and scientific form in the order of hundreds of trillions.
+
+This software is copyright (c) 2012 by Steven Haryanto.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
