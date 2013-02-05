@@ -1,5 +1,5 @@
 ---
-abstract: 'Lingua::IND::Words2Nums currently can handle real numbers in normal and scientific form in the order of hundreds of trillions.'
+abstract: 'Word 2 number conversion in IND.'
 author:
   - 'Steven Haryanto <sh@hhh.indoglobal.com>'
 build_requires:
@@ -18,4 +18,4 @@ requires:
   Perl6::Export::Attrs: 0
   strict: 0
   warnings: 0
-version: 0.044
+version: 0.0577
