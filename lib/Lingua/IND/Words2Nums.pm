@@ -5,6 +5,8 @@ package Lingua::IND::Words2Nums;
 
 # {{{ use block
 
+use 5.10.1;
+
 use strict;
 use warnings;
 
@@ -13,7 +15,7 @@ use Perl6::Export::Attrs;
 # }}}
 # {{{ variables declaration
 
-our $VERSION = 0.0577;
+our $VERSION = 0.0682;
 
 our %Digits = (
         nol => 0, kosong => 0,
@@ -249,7 +251,7 @@ Lingua::IND::Words2Nums - convert Indonesian verbage to number.
 
 =head1 VERSION
 
-version 0.0577
+version 0.0682
 
 =head1 SYNOPSIS
 
